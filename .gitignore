@@ -1,0 +1,12 @@
+﻿venv/
+__pycache__/
+*.pyc
+
+dataset/
+segregated_images/
+UDB/
+dataset.zip
+
+*.jpg
+*.jpeg
+*.png
